@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cofcdigikit/static/css/main.4878359f.css",
-    "main.js": "/cofcdigikit/static/js/main.0f67e0b8.js",
-    "static/js/787.d9bfc22a.chunk.js": "/cofcdigikit/static/js/787.d9bfc22a.chunk.js",
-    "index.html": "/cofcdigikit/index.html",
-    "main.4878359f.css.map": "/cofcdigikit/static/css/main.4878359f.css.map",
-    "main.0f67e0b8.js.map": "/cofcdigikit/static/js/main.0f67e0b8.js.map",
-    "787.d9bfc22a.chunk.js.map": "/cofcdigikit/static/js/787.d9bfc22a.chunk.js.map"
+    "main.css": "/static/css/main.4878359f.css",
+    "main.js": "/static/js/main.220206f5.js",
+    "static/js/787.d9bfc22a.chunk.js": "/static/js/787.d9bfc22a.chunk.js",
+    "index.html": "/index.html",
+    "main.4878359f.css.map": "/static/css/main.4878359f.css.map",
+    "main.220206f5.js.map": "/static/js/main.220206f5.js.map",
+    "787.d9bfc22a.chunk.js.map": "/static/js/787.d9bfc22a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4878359f.css",
-    "static/js/main.0f67e0b8.js"
+    "static/js/main.220206f5.js"
   ]
 }
