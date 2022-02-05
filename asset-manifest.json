@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cofcdigikit/static/css/main.4878359f.css",
-    "main.js": "/cofcdigikit/static/js/main.bb7f4419.js",
+    "main.js": "/cofcdigikit/static/js/main.c3cdf5dc.js",
     "static/js/787.d9bfc22a.chunk.js": "/cofcdigikit/static/js/787.d9bfc22a.chunk.js",
     "index.html": "/cofcdigikit/index.html",
     "main.4878359f.css.map": "/cofcdigikit/static/css/main.4878359f.css.map",
-    "main.bb7f4419.js.map": "/cofcdigikit/static/js/main.bb7f4419.js.map",
+    "main.c3cdf5dc.js.map": "/cofcdigikit/static/js/main.c3cdf5dc.js.map",
     "787.d9bfc22a.chunk.js.map": "/cofcdigikit/static/js/787.d9bfc22a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4878359f.css",
-    "static/js/main.bb7f4419.js"
+    "static/js/main.c3cdf5dc.js"
   ]
 }
